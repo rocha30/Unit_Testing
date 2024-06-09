@@ -1,0 +1,5 @@
+
+Ã
+java:S1598"¦This file "WeatherReportServicesTest.java" should be located in "org\adaschool\Weather\service" directory, not in "C:\Users\maroc\OneDrive - Colegio Jacques Cousteu\Documentos\UVG\ADA School\weather-api-springboot-java-main\weather-api-springboot-java-main\src\test\java\org\adaschool\Weather".(Ü¯¬8Ù«øÓÿ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü¯¬8Û«øÓÿ1
+xsecrets:S6705)"SMake sure this OpenWeatherMap key gets revoked, changed, and removed from the code.(æµŽ¹ÿÿÿÿÿ8—¬øÓÿ1
